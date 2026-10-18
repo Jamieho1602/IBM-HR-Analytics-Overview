@@ -1,11 +1,12 @@
 **Prepared by Jamie Ho** 
+
 **Dataset Used : IBM HR Analytics**
 
 **Project Title : Identifying Key Factors Associated with Employee Attrition and Improving Employee Retention**
 
 What are the key factors associated with employee attrition, and how can the organisation improve employee retention to reduce recruitment costs, retain experienced talent, enhance productivity and busines 
 
-Research Questions
+**Research Questions**
 
 ### 1. Which department and job roles have the highest attrition rates ?
    - 1.1 Which department has the highest attrition rates ?
