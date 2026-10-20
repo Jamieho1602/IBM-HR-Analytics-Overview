@@ -1,7 +1,6 @@
 
-<p align="center">
-  <img src="HR%20Icon.png" width="250">
-</p>
+<img width="220" height="220" alt="HR Icon" src="https://github.com/user-attachments/assets/52ef2b35-b4fe-49db-85ee-a00e4b02cbda" />
+
 
 
 
@@ -17,14 +16,6 @@ What are the key factors associated with employee attrition, and how can the org
 **Research Questions**
 
 ### 1. Which department and job roles have the highest attrition rates ?
-   - 1.1 Which department has the highest attrition rates ?
-   - 1.2 Which job role has the highest attrition rates ?
-   - 1.3 Within which department, which job role has the highest attrition rates ?
-   - 1.4 Are higher attrition rates concentrated in any particular job level ?
-   - 1.5 Is the frequency of business travel associated with employee attrition?
-   - 1.6 Are employees who live farther from the workplace more likely to leave?
-   - 1.7 Do business travvel frequency and distance from home show different attrition patterns across departments and job roles
-   
    
 ### 2. Does compensation or total rewards link to employee attrition ?
 
