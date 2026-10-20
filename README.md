@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="HR%20Icon.png" width="250">
+</p>
+
+
+
+
 **Prepared by Jamie Ho** 
 
 **Dataset Used : IBM HR Analytics**
