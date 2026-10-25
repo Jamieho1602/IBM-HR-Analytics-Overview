@@ -31,7 +31,7 @@ Employee attrition is a key HR challenge affecting workforce stability, producti
 
 This project uses the **IBM HR Analytics sample dataset** to explore employee turnover patterns, identify factors associated with attrition and develop data-driven HR retention recommendations.
 
-The project combines HR domain knowledge, data analytics and predictive modelling, with recommendations guided by the Six Pillars of Total Rewards.
+The project combines data analytics, predictive modelling and HR knowledge to identify factors associated with employee attrition and develop practical retention strategies guided by the Six Pillars of Total Rewards.
 
 
 ## 🎯 **Research Problem Statements And Objectives**
