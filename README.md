@@ -132,4 +132,56 @@ The project follows an end-to-end data analytics workflow using Python, Google C
 
 **Talent Retention**: Employees with 0–2 years of service recorded 29.91% attrition.
 
-**Predictive Analytics**: The Logistic Regression model achieved 75.09% accuracy and 78.72% recall, with 37.00% precision.    
+**Predictive Analytics**: The Logistic Regression model achieved 75.09% accuracy and 78.72% recall, with 37.00% precision.   
+
+
+## 📈 Power BI Dashboard
+
+The Power BI dashboard presents five analytical areas to explore employee attrition patterns, identify potential risk factors and support HR retention strategies.
+
+**HR Attrition Overview** – Overall attrition trends and workforce demographics.
+
+**Compensation & Rewards** – Relationships between compensation, stock options and attrition.
+
+**Employee Experience** – Impact of overtime, business travel and employee satisfaction.
+
+**Talent & Retention** – Attrition patterns associated with employee tenure and career progression.
+
+**Predictive Analytics** – Logistic Regression results and model performance.
+
+<img src="IBM_HR_Analytics_Compact_README.png" alt="IBM HR Analytics Dashboard Summary" width="600">
+
+
+## 💡 HR Recommendations
+
+The findings support targeted employee retention strategies guided by the Six Pillars of Total Rewards:
+
+**Compensation** – Benchmark salaries against external market rates for comparable job roles and levels, review internal pay equity, and evaluate long-term incentive (LTI) programmes, including stock options.
+
+**Benefits** – Not evaluated, as employee benefits information was unavailable in the dataset.
+
+**Work-Life Effectiveness** – Review excessive overtime and strengthen work-life balance.
+
+**Recognition** – Not evaluated, as employee recongition information was unavilable in the dataset.
+
+**Performance Management** – Review performance ratings, job involvement and employee engagement.
+
+**Talent Development & Career Opportunities** – Strengthen early-tenure retention and review career progression and promotion opportunities.
+
+These recommendations translate analytical findings into practical HR actions while acknowledging areas where additional data is required.
+
+
+## 📁 Project Files
+
+Python Notebook (IBM_HR_Analytics.ipynb) – Data understanding, cleaning, merging, exploratory data analysis (EDA) and Logistic Regression modelling.
+
+Power BI Dashboard – Five interactive dashboard pages covering HR Attrition Overview, Compensation & Rewards, Employee Experience, Talent & Retention, and Predictive Analytics.
+
+Project Presentation – Summary of key findings, attrition patterns, predictive modelling results and HR recommendations guided by the Six Pillars of Total Rewards.
+
+
+## Conclusion
+
+This project demonstrates how Python, Power BI and predictive analytics can support evidence-based HR decision-making by identifying factors associated with employee attrition.
+
+It also highlights the importance of combining data analytics with practical HR knowledge to develop employee retention strategies guided by a structured Total Rewards framework.
