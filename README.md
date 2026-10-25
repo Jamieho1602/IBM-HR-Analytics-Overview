@@ -175,7 +175,7 @@ These recommendations translate analytical findings into practical HR actions wh
 
 Python Notebook (IBM_HR_Analytics.ipynb) – Data understanding, cleaning, merging, exploratory data analysis (EDA) and Logistic Regression modelling.
 
-Power BI Dashboard – Five interactive dashboard pages covering HR Attrition Overview, Compensation & Rewards, Employee Experience, Talent & Retention, and Predictive Analytics.
+**Power BI Dashboard:** [Download Power BI Dashboard](HR%20Analytics%20Presentation%20Recovered.pbix) – Five interactive dashboard pages covering HR Attrition Overview, Compensation & Rewards, Employee Experience, Talent & Retention, and Predictive Analytics.
 
 Project Presentation – Summary of key findings, attrition patterns, predictive modelling results and HR recommendations guided by the Six Pillars of Total Rewards.
 
