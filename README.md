@@ -181,7 +181,7 @@ Project Presentation – Summary of key findings, attrition patterns, predictive
 
 ## 🌐 Interactive Streamlit Dashboard & Attrition Risk Simulator
 
-Launch IBM HR Analytics Interactive Dashboard
+[Launch IBM HR Analytics Interactive Dashboard](https://ibm-hr-analytics-overview-hgbm3b74pglea4er7acjpy.streamlit.app)
 
 The Streamlit application provides four interactive modules:
 
