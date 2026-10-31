@@ -149,7 +149,7 @@ The Power BI dashboard presents five analytical areas to explore employee attrit
 
 **Predictive Analytics** – Logistic Regression results and model performance.
 
-<img src="IBM_HR_Analytics_Compact_README.png" alt="IBM HR Analytics Dashboard Summary" width="600">
+<img src="IBM%20HR%20Analytics%20Dashboard%20Overview.png" alt="IBM HR Analytics Portfolio" width="600">
 
 
 ## 💡 HR Recommendations
