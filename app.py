@@ -38,15 +38,16 @@ def load_data():
         validate="one_to_one"
     )
 
-    # Remove records with missing values, as done in Colab
+
+# Remove records with missing values
 hr_data = hr_data.dropna().copy()
 
+# Create attrition indicator
 hr_data["Attrition_Flag"] = (
-    hr_data["Attrition"] == "Yes"
-).astype(int)
+     hr_data["Attrition"] == "Yes"
+    ).astype(int)
 
-return hr_data
-
+    return hr_data
 
 df = load_data()
 
