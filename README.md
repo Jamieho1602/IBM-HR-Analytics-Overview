@@ -179,7 +179,19 @@ Python Notebook (IBM_HR_Analytics.ipynb) – Data understanding, cleaning, mergi
 
 Project Presentation – Summary of key findings, attrition patterns, predictive modelling results and HR recommendations guided by the Six Pillars of Total Rewards.
 
+## 🌐 Interactive Streamlit Dashboard & Attrition Risk Simulator
 
+Launch IBM HR Analytics Interactive Dashboard
+
+The Streamlit application provides four interactive modules:
+
+Executive Overview – Workforce KPIs and departmental attrition.
+
+General Attrition – Analysis of overtime, job satisfaction and employee turnover.
+
+High-Performer Retention – Analysis of attrition among high-performing employees.
+
+Attrition Risk Simulator – Uses Logistic Regression to demonstrate how employee characteristics influence estimated attrition probabilities.
 ## Conclusion
 
 This project demonstrates how Python, Power BI and predictive analytics can support evidence-based HR decision-making by identifying factors associated with employee attrition.
