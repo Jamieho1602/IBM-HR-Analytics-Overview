@@ -126,3 +126,13 @@ elif page == "Attrition Risk Simulator":
                 st.error("Model does not contain the expected attrition class (1).")
             else:
                 probabilities = model.predict_proba(input_data)[0]
+                leaving = float(probabilities[classes.index(1)])
+                staying = 1.0 - leaving
+                x, y = st.columns(2)
+                x.metric("Estimated Attrition Probability", f"{leaving:.2%}")
+                y.metric("Estimated Staying Probability", f"{staying:.2%}")
+                st.progress(leaving)
+                st.warning("For learning and demonstration only. This model's probabilities are not established as calibrated or reliable for individual HR decisions. Do not use this output to make employment decisions.")
+        except Exception as error:
+            st.error("Prediction could not be completed. Please check the model's expected inputs.")
+            st.exception(error)
