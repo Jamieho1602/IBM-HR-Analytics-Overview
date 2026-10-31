@@ -132,12 +132,14 @@ The project follows an end-to-end data analytics workflow using Python, Google C
 
 **Talent Retention**: Employees with 0–2 years of service recorded 29.91% attrition.
 
+**High Performers & Retention Risk**: Employees with a performance rating of 4 recorded 16.44% attrition. Among these high performers, those with the lowest job satisfaction recorded 33.33% attrition, compared with 8.86% for those with the highest satisfaction.
+
 **Predictive Analytics**: The Logistic Regression model achieved 75.09% accuracy and 78.72% recall, with 37.00% precision.   
 
 
 ## 📈 Power BI Dashboard
 
-The Power BI dashboard presents five analytical areas to explore employee attrition patterns, identify potential risk factors and support HR retention strategies.
+The Power BI dashboard presents six analytical areas to explore employee attrition patterns, identify potential risk factors and support HR retention strategies.
 
 **HR Attrition Overview** – Overall attrition trends and workforce demographics.
 
@@ -146,6 +148,8 @@ The Power BI dashboard presents five analytical areas to explore employee attrit
 **Employee Experience** – Impact of overtime, business travel and employee satisfaction.
 
 **Talent & Retention** – Attrition patterns associated with employee tenure and career progression.
+
+**High Performers & Retention Risk** – Attrition among high-performing employees, focusing on job satisfaction, overtime and promotion history.
 
 **Predictive Analytics** – Logistic Regression results and model performance.
 
