@@ -38,11 +38,14 @@ def load_data():
         validate="one_to_one"
     )
 
-    hr_data["Attrition_Flag"] = (
-        hr_data["Attrition"] == "Yes"
-    ).astype(int)
+    # Remove records with missing values, as done in Colab
+hr_data = hr_data.dropna().copy()
 
-    return hr_data
+hr_data["Attrition_Flag"] = (
+    hr_data["Attrition"] == "Yes"
+).astype(int)
+
+return hr_data
 
 
 df = load_data()
