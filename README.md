@@ -48,7 +48,7 @@ The project combines data analytics, predictive modelling and HR knowledge to id
 
 **3. Employee Experience**
 
--   Problem : How do overtime, business travel and work-life balance relate to employee turnover?
+-   Problem : How do overtime and work-life balance relate to employee turnover?
 -   Objective : Analyse working conditions and work-life balance to identify potential employee retention challenges.
 
 **4. Employee Engagement**
@@ -58,7 +58,7 @@ The project combines data analytics, predictive modelling and HR knowledge to id
 
 **5. Talent Management & Retention**
 
--   Problem : How do employee tenure, performance ratings and promotion history relate to employee retention?
+-   Problem : How do employee tenure and performance ratings relate to employee retention?
 -   Objective : Identify retention challenges associated with career progression and employee tenure.
 
 
@@ -103,11 +103,12 @@ The project follows an end-to-end data analytics workflow using Python, Google C
 
 **4. Data Visualisation – Power BI**
 
--   Developed five interactive dashboard pages to communicate the findings:
+-   Developed six interactive dashboard pages to communicate the findings:
 -   HR Attrition Overview
 -   Compensation & Rewards
 -   Employee Experience
 -   Talent & Retention
+-   High Performers and Retention Risk
 -   Predictive Analytics
 
 **5. Predictive Modelling – Logistic Regression**
@@ -179,7 +180,7 @@ These recommendations translate analytical findings into practical HR actions wh
 
 Python Notebook (IBM_HR_Analytics.ipynb) – Data understanding, cleaning, merging, exploratory data analysis (EDA) and Logistic Regression modelling.
 
-**Power BI Dashboard:** [Download Power BI Dashboard](HR%20Analytics%20Presentation%20Recovered.pbix) – Five interactive dashboard pages covering HR Attrition Overview, Compensation & Rewards, Employee Experience, Talent & Retention, and Predictive Analytics.
+**Power BI Dashboard:** [Download Power BI Dashboard](HR%20Analytics%20Presentation%20Recovered.pbix) – Six interactive dashboard pages covering HR Attrition Overview, Compensation & Rewards, Employee Experience, Talent & Retention, and Predictive Analytics.
 
 Project Presentation – Summary of key findings, attrition patterns, predictive modelling results and HR recommendations guided by the Six Pillars of Total Rewards.
 
