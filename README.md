@@ -9,9 +9,9 @@
 
 **Project Title : Identify Key Factors Associated with Employee Attrition and Improving Employee Retention**
 
-**Tools: Python / Google Colab / Power BI / Logistic Regression**
+**Tools: Python / Google Colab / Power BI / Logistic Regression / Streamlit**
 
-**Prepared by Jamie Ho** 
+**Prepared by Ho Pei Ling Jamie** 
 
 
 ## **Contents**
@@ -178,7 +178,7 @@ These recommendations translate analytical findings into practical HR actions wh
 
 ## 📁 Project Files
 
-Python Notebook (IBM_HR_Analytics.ipynb) – Data understanding, cleaning, merging, exploratory data analysis (EDA) and Logistic Regression modelling.
+Python Notebook (**Python Notebook:** [Open in Colab](https://colab.research.google.com/github/Jamieho1602/IBM-HR-Analytics-Overview/blob/main/IBM_HR_Analytics.ipynb)) – Data understanding, cleaning, merging, exploratory data analysis (EDA) and Logistic Regression modelling.
 
 **Power BI Dashboard:** [Download Power BI Dashboard](HR%20Analytics%20Presentation%20Recovered.pbix) – Six interactive dashboard pages covering HR Attrition Overview, Compensation & Rewards, Employee Experience, Talent & Retention, and Predictive Analytics.
 
